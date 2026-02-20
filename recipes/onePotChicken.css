@@ -1,0 +1,13 @@
+*{
+    padding:0;
+    box-sizing:border-box;
+    background-color: darkgrey;
+}
+
+div{
+    font-family:'Times New Roman', Times, serif;
+}
+
+h3, ul, p{
+    font-size:large;
+}

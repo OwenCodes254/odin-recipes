@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color:lightgrey;
+}
+
+div{
+    background-color:darkgray;
+    width:400px;
+    padding:10px;
+    text-align: center;
+    margin:0 auto;
+}
+
+.links, h1{
+    margin:10px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:darkgrey;
+}
